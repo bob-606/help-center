@@ -1,18 +1,16 @@
-# Help Page (KR version)
+# Crypto Tutorials
 
-## Crypto Tutorials
-
-### 가상화폐 입금 방법
+## 가상화폐 입금 방법
 
 [PRODUCT NAME]에서 가상화폐로 입금하시는 방법을 추천합니다.
 
 ### ✅ Step 1: [PRODUCT NAME]에서 입금 주소 확인
 
-1. [PRODUCT NAME] 사이트의 **"입금"** 을 탭
+ 1. [PRODUCT NAME] 사이트의 **"입금"** 을 탭
 
 ![image](/asset/deposit.png)
 
-2. **"가상화폐"** 를 선택 (아래에서 원하는 통화를 선택)
+ 2. **"가상화폐"** 를 선택 (아래에서 원하는 통화를 선택)
 
 ![image](/asset/cryptos.png)
 
@@ -23,7 +21,7 @@
   - 이더리움 ($ETH)
   - 라이트코인 ($LTC)
 
-3. 표시된 **【지갑 주소】** 를 복사하거나 QR 코드를 저장
+ 3. 표시된 **【지갑 주소】** 를 복사하거나 QR 코드를 저장
 
 ### ✅ Step 2: 이용하시는 거래소에서 송금
 
