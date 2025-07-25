@@ -17,7 +17,7 @@
 &nbsp;&nbsp;지원 가상화폐:
   - USD 테더 (ERC20, TRC20, BEP20)
   - 비트코인 ($BTC)
-  - 트론 ($BTC)
+  - 트론 ($TRX)
   - 이더리움 ($ETH)
   - 라이트코인 ($LTC)
 
